@@ -1,6 +1,6 @@
 <h2> Hi, I'm Do Trung Hau! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Undergraduated Student at <a href="http://www.unb.br">HCMC University of Technology and Education</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
+<p><em>Undergraduated Student at <a href="https://hcmute.edu.vn/">HCMC University of Technology and Education</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
 </em></p>
 
 [![Facebook: DoTrungHau](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/otrunghau.266544/)

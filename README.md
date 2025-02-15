@@ -5,7 +5,7 @@
 
 [![Facebook: DoTrungHau](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/otrunghau.266544/)
 [![YouTube: MasterUTEfr83](https://img.shields.io/badge/-MasterUTEfr83-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/@MasterUTEfr83)](https://www.youtube.com/@MasterUTEfr83)
-[![GitHub DTHub-Tracer](https://img.shields.io/github/followers/DTHub-Tracer?label=follow&style=social)](https://github.com/DTHub-Tracer)
+[![GitHub DTHub-Tracer](https://img.shields.io/github/followers/dohau101010?label=follow&style=social)](https://github.com/dohau101010)
 
 
 

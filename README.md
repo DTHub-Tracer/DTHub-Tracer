@@ -1,5 +1,5 @@
 <h2> Hi, I'm Do Trung Hau! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25uem43dWNoenZhcTVvM2cwcXAybnliMnFudGVqYno2Ynh6Nmw2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="150">
 <p><em>Undergraduated Student at <a href="https://hcmute.edu.vn/">HCMC University of Technology and Education</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
 </em></p>
 

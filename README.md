@@ -14,7 +14,7 @@
 
 ```javascript
 const DTH = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   education: {
     degree: "Bachelor of Electronics and Telecommunications Engineering",
     university: "HCMC University of Technology and Education",
@@ -25,7 +25,7 @@ const DTH = {
     },
   interest: [
           "Embedded System & IoT",
-          "Automotive embedded software",
+          "Automotive Embedded Software",
           "Digital Signal Processing",
           "AI/ML-Based Optimization",
           "Deep Learning",
